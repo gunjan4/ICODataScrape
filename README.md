@@ -1,2 +1,2 @@
 # ICODataScrape
-Scrape ICO Data from a website - Page Scraping
+Scrape ICO Data from a website using Python
